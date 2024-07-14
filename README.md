@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 <!--Header Name-->
-# ɪ'ᴍ ʙʜᴀᴠʏ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+# ɪ'ᴍ ʙʜᴀᴠʏ <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> 
 *Digital Nerd*
 <br /> 
 <div>
-  <img align="right" width="20%" src="https://github.com/bhavymehta/bhavymehta/blob/main/lew.svg"> 
+  <img align="right" width="20%" src="https://github.com/bhavymehta/bhavymehta/blob/main/PNG.svg"> 
 </div>
 
 
