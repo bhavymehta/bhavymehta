@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **bhavymehta/bhavymehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<!--   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> -->
-</div>
 
 <!--Header Name-->
 # ɪ'ᴍ ʙʜᴀᴠʏ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 *Digital Nerd*
 <br /> 
+<div>
+  <img align="right" width="20%" src="https://github.com/bhavymehta/bhavymehta/blob/main/lew.svg"> 
+</div>
+
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with love for JavaScript and experience with ReactJS, MongoDB, NodeJS and ExpressJS</p>
